@@ -1,7 +1,10 @@
-# functapp001
+# functapp001 🌩️
 functapp001 : #azure_function_app
 
-# Function App (Consumption)
+## Objective
+To create an Azure Function with an HTTP trigger and essentially works as an API endpoint.
+
+## Function App (Consumption)
 ![Screenshot01](./functapp001_01.png)
 
 ![Screenshot02](./functapp001_02.png)
