@@ -1,5 +1,5 @@
 # functapp001 🌩️
-functapp001 : #azure_function_app
+functapp001 : #azure_function_app #javascript
 
 ## Objective
 To create an Azure Function with an HTTP trigger and essentially works as an API endpoint.
