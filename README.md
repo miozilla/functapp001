@@ -4,6 +4,10 @@ functapp001 : #azure_function_app #javascript
 ## Objective
 To create an Azure Function with an HTTP trigger and essentially works as an API endpoint.
 
+## Similar Skills Set
+- GCP : Cloud Functions
+- AWS : Lambda
+
 ## Function App (Consumption)
 ![Screenshot01](./functapp001_01.png)
 
